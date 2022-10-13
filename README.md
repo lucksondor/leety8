@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leety8
 - 👀 I’m interested in Full Stack developer (Junior position)
-- 🌱 I’m currently learning ...JavaScript
+- 🌱 Skills: node.js, Express, React, JSX, Bootstrap, babel and MongoDB
 - 💞️ I’m looking to collaborate on any web develop App.
 - 📫 How to reach me @lr.dor86@gamil.com
 
