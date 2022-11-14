@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leety8
+- 👋 Hi, I’m @lucksondor
 - 👀 I’m interested in Full Stack developer (Junior position)
 - 🌱 Skills: node.js, Express, React, JSX, Bootstrap, babel and MongoDB
 - 💞️ I’m looking to collaborate on any web develop App.
